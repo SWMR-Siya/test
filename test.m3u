@@ -7,6 +7,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-name="Almahaliya TV" tvg-logo="https://i.imgur.com/GvnYqzv.png" tvg-id="Almahaliya.sy" group-title="Syria",Almahaliya TV
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 
-#EXTINF:-1 tvg-name="HalabTodayTV" tvg-logo="https://i.imgur.com/fY8UKs7.png" tvg-id="HalabTodayTV.sy" group-title="Syria",Almahaliya TV
+#EXTINF:-1 tvg-name="HalabTodayTV" tvg-logo="https://i.imgur.com/fY8UKs7.png" tvg-id="HalabTodayTV.sy" group-title="Syria",HalabTodayTV
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
