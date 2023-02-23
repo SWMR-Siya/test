@@ -11,8 +11,7 @@ http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png" tvg-id="SamaTV.sy" group-title="Syria",Sama TV
-http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
-
+https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 
 #EXTINF:-1 tvg-name="Syria Drama Test" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SyriaDrama.sy" group-title="Syria",Syria Drama Test
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
