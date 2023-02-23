@@ -13,11 +13,14 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png" tvg-id="SamaTV.sy" group-title="Syria",Sama TV
 https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 
-#EXTINF:-1 tvg-name="Syria Drama Test" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SyriaDrama.sy" group-title="Syria",Syria Drama Test
+#EXTINF:-1 tvg-name="Syria Drama" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SyriaDrama.sy" group-title="Syria",Syria Drama
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Lana TV Test" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="LanaTV.lb" group-title="Syria",Lana TV
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
+
+#EXTINF:-1 tvg-name="Syria Satellite Channel" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-id="SyrianSatelliteChannel.sy" group-title="Syria",Syria Satellite Channel
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 
 
 
