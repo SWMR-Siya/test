@@ -17,4 +17,9 @@ http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
 #EXTINF:-1 tvg-name="Syria Drama Test" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SyriaDrama.sy" group-title="Syria",Syria Drama Test
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Lana TV Test" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="LanaTV.lb" group-title="Syria",Lana TV
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+
+
+
 
