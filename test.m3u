@@ -16,11 +16,24 @@ https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 #EXTINF:-1 tvg-name="Syria Drama" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SyriaDrama.sy" group-title="Syria",Syria Drama
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Syria Drama" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SyriaDrama.sy" group-title="Syria",Syria Drama (SD)
+https://tv.ipslow.com/tv187_www.elahmad.com_syria_drama/tracks-v1a1/mono.m3u8?token=95f1aa53d4358cf21fd817111564ee6752c0f7a5-925aaa498682fae3beca5c0bf28ef463-1677275902-1677265102
+
 #EXTINF:-1 tvg-name="Lana TV Test" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="LanaTV.lb" group-title="Syria",Lana TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 
 #EXTINF:-1 tvg-name="Syria Satellite Channel" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-id="SyrianSatelliteChannel.sy" group-title="Syria",Syria Satellite Channel
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Rojava TV" tvg-logo="https://i.imgur.com/42noysO.png" tvg-id="RojavaTV.sy" group-title="Syria", Rojava TV
+https://live.karwan.tv/rojava-tv/tracks-v1a1/mono.m3u8?token=0f156362bc370b56b9e740ff415a78ec16efd486-c002f51883621d7dc70faf285be23813-1677273923-1677263123
+
+
+
+
 
 
 
