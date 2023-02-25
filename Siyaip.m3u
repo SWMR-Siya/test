@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" tvg-id="ABCNews.au" group-title="Australia",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-
 #EXTINF:-1 tvg-name="Almahaliya TV" tvg-logo="https://i.imgur.com/GvnYqzv.png" tvg-id="Almahaliya.sy" group-title="Syria",Almahaliya TV
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 
@@ -34,6 +30,8 @@ https://tv.ipslow.com/tv187_www.elahmad.com_syria_drama/tracks-v1a1/mono.m3u8?to
 
 #EXTINF:-1 tvg-name="Rojava TV" tvg-logo="https://i.imgur.com/42noysO.png" tvg-id="RojavaTV.sy" group-title="Syria", Rojava TV
 https://live.karwan.tv/rojava-tv/tracks-v1a1/mono.m3u8?token=0f156362bc370b56b9e740ff415a78ec16efd486-c002f51883621d7dc70faf285be23813-1677273923-1677263123
+
+
 
 
 
