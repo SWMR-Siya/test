@@ -41,13 +41,13 @@ https://live.karwan.tv/rojava-tv/tracks-v1a1/mono.m3u8?token=0f156362bc370b56b9e
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://i.imgur.com/ePBvFC8.png" tvg-id="MBC1.ae" group-title="mbc", mbc
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-name="MBC sd" tvg-logo="https://i.imgur.com/ePBvFC8.png" tvg-id="MBC1.ae" group-title=mbc", mbc (SD)
+#EXTINF:-1 tvg-name="MBC sd" tvg-logo="https://i.imgur.com/ePBvFC8.png" tvg-id="MBC1sd.ae" group-title=mbc", mbc (SD)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC 3" tvg-logo="https://i.imgur.com/UgDTRNv.png" tvg-id="MBC3.ae" group-title="mbc", mbc 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
-#EXTINF:-1 tvg-name="MBC 3 sd" tvg-logo="https://i.imgur.com/UgDTRNv.png" tvg-id="MBC3.ae" group-title=mbc", mbc 3 (SD)
+#EXTINF:-1 tvg-name="MBC 3 sd" tvg-logo="https://i.imgur.com/UgDTRNv.png" tvg-id="MBC3sd.ae" group-title=mbc", mbc 3 (SD)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
 
