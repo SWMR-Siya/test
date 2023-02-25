@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC : 1 8K" tvg-logo="http://zeintv.xyz:8080/images/aBeyiKIb4ARyYRRCMNw5EmdNbsRpCMjRgnObirRJ0s1y9Ezo1gTnRaqw_rA_lGHr.png" group-title="AR:  MBC 4K ام ب سي",MBC : 1 8K
 http://zeintv.xyz:8080/S123456789s/S123456789s/60563
 #EXTINF:-1 tvg-id="" tvg-name="MBC : 2  4K+" tvg-logo="http://safarisat.com/logos/arabic/MBC%202.png" group-title="AR:  MBC 4K ام ب سي",MBC : 2  4K+
