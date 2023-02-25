@@ -17,7 +17,6 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 #EXTINF:-1 tvg-name="Lana TV (SD) " tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="LanaTV.lb" group-title="Syria",Lana TV (SD)
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 
-
 #EXTINF:-1 tvg-name="Lana TV +" tvg-logo="https://i.imgur.com/Q9wNCFO.png" tvg-id="LanaTVPlus.lb" group-title="Syria",Lana TV +
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 
