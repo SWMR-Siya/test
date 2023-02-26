@@ -7,7 +7,7 @@ http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-name="HalabTodayTV" tvg-logo="https://i.imgur.com/fY8UKs7.png" tvg-id="HalabTodayTV.sy" group-title="SYRIA",HalabTodayTV
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png" tvg-id="SamaTV.sy"#EXTINF:-1,•●★★--- I,Sama TV
+#EXTINF:-1 tvg-name="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png" tvg-id="SamaTV.sy" group-title="SYRIA",Sama TV
 https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 
 #EXTINF:-1 tvg-name="Lana TV" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="LanaTV.lb" group-title="SYRIA",Lana TV
