@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTREM: Liste de chaine SYRIA
 
+#EXTINF:-1 tvg-logo="" group-title="", __
+https://
+
+#EXTINF:-1, **Syria**
+http://vod.ortas.sy:1935/oLive/aloula05042022.m3u8
+
 #EXTINF:-1 tvg-name="Almahaliya TV" tvg-logo="https://i.imgur.com/GvnYqzv.png" tvg-id="Almahaliya.sy" group-title="SYRIA",Almahaliya TV
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HalabTodayTV" tvg-logo="https://i.imgur.com/fY8UKs7.png" tvg-id="HalabTodayTV.sy" group-title="SYRIA",HalabTodayTV
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png" tvg-id="SamaTV.sy" group-title="SYRIA",Sama TV
+#EXTINF:-1 tvg-name="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png" tvg-id="SamaTV.sy"#EXTINF:-1,•●★★--- I,Sama TV
 https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 
 #EXTINF:-1 tvg-name="Lana TV" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="LanaTV.lb" group-title="SYRIA",Lana TV
@@ -28,15 +34,29 @@ http://82.137.248.16:1935/oLive/snews05042022/chunklist_w392516027.m3u8
 #EXTINF:-1 tvg-name="SYRIA Drama" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SYRIADrama.sy" group-title="SYRIA",SYRIA Drama
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 
-#EXTINF:-1 tvg-name="SYRIA Drama" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-id="SYRIADrama.sy" group-title="SYRIA",SYRIA Drama (SD)
-https://tv.ipslow.com/tv187_www.elahmad.com_SYRIA_drama/tracks-v1a1/mono.m3u8?token=95f1aa53d4358cf21fd817111564ee6752c0f7a5-925aaa498682fae3beca5c0bf28ef463-1677275902-1677265102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="SYRIA",Nour El-Sham
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rojava TV" tvg-logo="https://i.imgur.com/42noysO.png" tvg-id="RojavaTV.sy" group-title="SYRIA", Rojava TV
+#EXTIN:-1 tvg-name="Rojava TV" tvg-logo="https://i.imgur.com/42noysO.png" tvg-id="RojavaTV.sy" group-title="SYRIA", Rojava TV
 https://live.karwan.tv/rojava-tv/tracks-v1a1/mono.m3u8?token=0f156362bc370b56b9e740ff415a78ec16efd486-c002f51883621d7dc70faf285be23813-1677273923-1677263123
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T8fRsUB.png" group-title="SYRIA", Assyrian ANB
+https://list.iptvcat.com/my_list/s/c23f1a559a7774598b1e3b2b03477107.m3u8
 
-#EXTINF:-1 tvg-name="MBC" tvg-logo="https://i.imgur.com/ePBvFC8.png" tvg-id="MBC1.ae" group-title="MBC", MBC
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="SYRIA", Souryana
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="SYRIA", Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+
+
+
+#EXTINF:-1, **MBC**
+http://vod.ortas.sy:1935/oLive/aloula05042022.m3u8
+
+
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://i.imgur.com/ePBvFC8.png" tvg-id="M.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
 #EXTINF:-1 tvg-name="mbc" tvg-logo="https://mbc-2.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc1.png" tvg-id="MBC1.ae" group-title="MBC", mbc
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -78,3 +98,56 @@ https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama PLUS
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
+
+#EXTINF:-1, **ALGERIA**
+http://vod.ortas.sy:1935/oLive/aloula05042022.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbGX0ST.png" group-title="ALGERIA", CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+
+#EXTINF:-1, **BAHRAIN**
+http://vod.ortas.sy:1935/oLive/aloula05042022.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="BAHRAIN", Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="BAHRAIN", Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="BAHRAIN", Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="BAHRAIN", Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="BAHRAIN", Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#EXTINF:-1, **NEWS**
+http://vod.ortas.sy:1935/oLive/aloula05042022.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="NEWS", CGTN NEWS
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="NEWS" , Al Ghad TV
+https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="NEWS" , Al Qahera News
+https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="NEWS" , Extra News
+https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="NEWS" , Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS" , France 24 Arabic
+https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="NEWS" , DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="NEWS" , DW Arabic (backup)
+https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
