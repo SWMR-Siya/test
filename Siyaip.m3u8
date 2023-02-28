@@ -252,9 +252,9 @@ http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
 #EXTINF:-1 group-title="SYRIA" tvg-id="SouryanaRadio.sy" status="timeout",Souryana Radio (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-id="SpacetoonArabic.ae" status="online",Spacetoon (1080p)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonArabic.ae" status="online",Spacetoon (1080p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-id="SpacetoonArabic.ae" status="online",Spacetoon (576p)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonArabic.ae" status="online",Spacetoon (576p)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="SYRIA" tvg-id="SyriaDrama.sy" status="timeout",Syria Drama (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
@@ -390,7 +390,7 @@ http://210.210.155.37/uq2663/h/h152/index2.m3u8
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-id="HawasTV.ae" status="online",Hawas TV (480p)
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-id="Majid.ae" status="online",Majid TV (1080p)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/TzOKMMy.png" tvg-id="Majid.ae" status="online",Majid TV (1080p)
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="MBC" tvg-id="MBC1.ae" status="online",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -402,7 +402,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10227?checkedby:iptvcat.com
 #EXTINF:-1 group-title="MBC" tvg-id="MBC3.ae" status="online",MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-id="MBC3.ae" status="online",MBC 3 EUR (1080p)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/UgDTRNv.png" tvg-id="MBC3.ae" status="online",MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 group-title="MBC" tvg-id="MBC3.ae" status="online",MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -482,11 +482,11 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1 group-title="United Arab Emirates".amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1 group-title="United Arab Emirates"/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-id="" ,Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-id="" ,Koogi TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-id="" ,Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-id="" ,Gulli Bil Arabi
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/34Vcc7u.png" tvg-id="" ,Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-id="" ,TAHA-TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="" ,TAHA-TV
 https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Y2BqP9m.png" tvg-id="" ,Atfal & Mawaheb TV
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
