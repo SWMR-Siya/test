@@ -244,6 +244,8 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 https://ythls.onrender.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
 #EXTINF:-1 group-title="SYRIA" tvg-id="LanaTV.lb" status="online",Lana TV (720p)
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 group-title="SYRIA" tvg-id="LanaTV.lb" status="online",Lana TV (Backup)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:-1 group-title="SYRIA" tvg-id="LanaTVPlus.lb" status="online",Lana TV Plus (720p)
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 group-title="SYRIA" tvg-id="NourElSham.sy" status="timeout",Nour El-Sham (360p) [Not 24/7]
