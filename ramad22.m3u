@@ -30,11 +30,11 @@ http://s204d2.akw.onl/download/1679678439/641c8a673cccc/Zuqaq.El.Jinn.S01.E01.72
 #EXTINF:0 tvg-logo="http://img.akw.onl/thumb/260x380/uploads/tUhVW.jpg" group-title="Ramadan 2023", Zuqaq.El.Jinn.S01.E02
 http://s108.akw.onl/download/1679762467/641dd2a3b7a09/Zuqaq.El.Jinn.S01.E02.720p.WEB-DL.AKWAM.mp4
 
-#EXTINF:0 tvg-logo="" group-title="Ramadan 2023", Marba.Al.Ezz.S01.E01
+#EXTINF:0 tvg-logo="https://img.akw.onl/thumb/178x260/uploads/ap3EJ.jpg" group-title="Ramadan 2023", Marba.Al.Ezz.S01.E01
 http://s201d2.akw.onl/download/1679761697/641dcfa1b83f6/Marba.Al.Ezz.S01.E01.720p.WEB-DL.AKWAM.mp4
-#EXTINF:0 group-title="Ramadan 2023", Marba.Al.Ezz.S01.E02
+#EXTINF:0 tvg-logo="https://img.akw.onl/thumb/178x260/uploads/ap3EJ.jpg" group-title="Ramadan 2023", Marba.Al.Ezz.S01.E02
 http://s202d1.akw.onl/download/1679679670/641c8f36dbc88/Marba.Al.Ezz.S01.E02.720p.WEB-DL.AKWAM.mp4
-#EXTINF:0 group-title="Ramadan 2023", Marba.Al.Ezz.S01.E03
+#EXTINF:0 tvg-logo="https://img.akw.onl/thumb/178x260/uploads/ap3EJ.jpg" group-title="Ramadan 2023", Marba.Al.Ezz.S01.E03
 http://s204d2.akw.onl/download/1679761741/641dcfcd04c3f/Marba.Al.Ezz.S01.E03.720p.WEB-DL.AKWAM.mp4
 
 #EXTINF:0  tvg-logo="http://img.akw.onl/thumb/260x380/uploads/yPSkr.jpg" group-title="Ramadan 2023", Al.Zind.Thib.Al.Assi.S01E01
@@ -44,10 +44,17 @@ http://s103.akw.onl/download/1679679495/641c8e87a5a4d/Al.Zind.Thib.Al.Assi.S01E0
 #EXTINF:0 tvg-logo="http://img.akw.onl/thumb/260x380/uploads/yPSkr.jpg" group-title="Ramadan 2023", Al.Zind.Thib.Al.Assi.S01E03
 http://s202d1.akw.onl/download/1679762283/641dd1eb57c27/Al.Zind.Thib.Al.Assi.S01E03.720p.WEB-DL.AKWAM.mp4
 
-#EXTINF:0 group-title="Ramadan 2023", Al.Karzon.S01.E01
+
+ 
+#EXTINF:0 tvg-logo="https://img.akw.onl/thumb/178x260/uploads/6wWQH.jpg" group-title="Ramadan 2023", Al.Karzon.S01.E01
 http://s202d1.akw.onl/download/1679680317/641c91bd62fa8/Al.Karzon.S01.E01.720p.WEB-DL.AKWAM.mp4
-#EXTINF:0 group-title="Ramadan 2023", Al.Karzon.S01.E02
+#EXTINF:0 tvg-logo="https://img.akw.onl/thumb/178x260/uploads/6wWQH.jpg" group-title="Ramadan 2023", Al.Karzon.S01.E02
 http://s204d1.akw.onl/download/1679761778/641dcff226175/Al.Karzon.S01.E02.720p.WEB-DL.AKWAM.mp4
+
+#EXTINF:0  tvg-logo="https://img.akw.onl/thumb/260x380/uploads/Fb3ok.jpg" group-title="Ramadan 2023", Arbagy.S01E01
+http://s201d2.akw.onl/download/1679765010/641ddc9278b46/Arbagy.S01E01.720P.WEB-DL.AKWAM.mp4
+#EXTINF:0  tvg-logo="https://img.akw.onl/thumb/260x380/uploads/Fb3ok.jpg" group-title="Ramadan 2023", Arbagy.S01E02
+http://s202d1.akw.onl/download/1679765027/641ddca30c809/Arbagy.S01E02.720P.WEB-DL.AKWAM.mp4
 
 #EXTINF:0 group-title="Ramadan 2023",Echo.S01E01
 http://upbaam.com/7kazdnrlgcy0/Echo.S01E01.720p.HDTV.Wecima.tube.mp4.html?Key=5mUW1N-ej-f71QzyAS0iVQ&amp;Expires=1679606551
